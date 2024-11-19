@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcservice2\\protos\\customer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|solutionrelative:grpcservice2\\protos\\customer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B0D125-C0F3-4F1D-93BE-76FDA96F8E22}|GRPCClient\\GRPCClient.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcclient\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B0D125-C0F3-4F1D-93BE-76FDA96F8E22}|GRPCClient\\GRPCClient.csproj|solutionrelative:grpcclient\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcservice2\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|solutionrelative:grpcservice2\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcservice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|solutionrelative:grpcservice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B0D125-C0F3-4F1D-93BE-76FDA96F8E22}|GRPCClient\\GRPCClient.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcclient\\protos\\customer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{63B0D125-C0F3-4F1D-93BE-76FDA96F8E22}|GRPCClient\\GRPCClient.csproj|solutionrelative:grpcclient\\protos\\customer.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B0D125-C0F3-4F1D-93BE-76FDA96F8E22}|GRPCClient\\GRPCClient.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B0D125-C0F3-4F1D-93BE-76FDA96F8E22}|GRPCClient\\GRPCClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcservice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|solutionrelative:grpcservice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|c:\\users\\shahri\\source\\repos\\grpcservice2\\grpcservice2\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DAE6DBA-27B4-4E82-AE5A-B73A63978E09}|GrpcService2\\GrpcServer.csproj|solutionrelative:grpcservice2\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 689,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customer.proto",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Protos\\customer.proto",
+              "RelativeDocumentMoniker": "GrpcService2\\Protos\\customer.proto",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Protos\\customer.proto",
+              "RelativeToolTip": "GrpcService2\\Protos\\customer.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-11-18T15:20:34.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customer.proto",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GRPCClient\\Protos\\customer.proto",
+              "RelativeDocumentMoniker": "GRPCClient\\Protos\\customer.proto",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GRPCClient\\Protos\\customer.proto",
+              "RelativeToolTip": "GRPCClient\\Protos\\customer.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-11-18T15:09:43.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GRPCClient\\Program.cs",
+              "RelativeDocumentMoniker": "GRPCClient\\Program.cs",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GRPCClient\\Program.cs",
+              "RelativeToolTip": "GRPCClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:07:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcService2\\Program.cs",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Program.cs",
+              "RelativeToolTip": "GrpcService2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:04:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcService2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcService2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T15:04:10.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "GrpcService2\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\Services\\CustomerService.cs",
+              "RelativeToolTip": "GrpcService2\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:02:57.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GrpcServer",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\GrpcServer.csproj",
+              "RelativeDocumentMoniker": "GrpcService2\\GrpcServer.csproj",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GrpcService2\\GrpcServer.csproj",
+              "RelativeToolTip": "GrpcService2\\GrpcServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T15:03:34.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GRPCClient\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "GRPCClient\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\shahri\\source\\repos\\GrpcService2\\GRPCClient\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "GRPCClient\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:02:27.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
